@@ -83,15 +83,3 @@ Several optimization techniques were applied to make the model suitable for edge
 | Hardware acceleration | Lower latency inference |
 
 Quantization can achieve **up to 4× smaller model size and 4× faster inference**, depending on device hardware.
-
----
-
-# What I Learned
-
-Key takeaways from this project include:
-
-- Deploying ML models outside cloud environments
-- Preparing models for **resource-constrained devices**
-- Understanding the role of **mobile AI runtimes**
-- Tradeoffs between **model size, accuracy, and latency**
-- Integrating ML models inside **mobile applications**
